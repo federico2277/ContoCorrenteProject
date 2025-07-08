@@ -1,0 +1,5 @@
+if(EXISTS "/mnt/c/Users/feder/CLionProjects/ContoCorrenteProject/cmake-build-debug/TestTransazione[1]_tests.cmake")
+  include("/mnt/c/Users/feder/CLionProjects/ContoCorrenteProject/cmake-build-debug/TestTransazione[1]_tests.cmake")
+else()
+  add_test(TestTransazione_NOT_BUILT TestTransazione_NOT_BUILT)
+endif()

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ContoCorrenteApp.dir/main.cpp.o CMakeFiles/ContoCorrenteApp.dir/src/ContoCorrente.cpp.o CMakeFiles/ContoCorrenteApp.dir/src/Transazione.cpp.o -o ContoCorrenteApp 

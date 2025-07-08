@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/TestTransazione.dir/test/TestTransazione.cpp.o CMakeFiles/TestTransazione.dir/src/Transazione.cpp.o CMakeFiles/TestTransazione.dir/src/ContoCorrente.cpp.o -o TestTransazione  lib/libgtest.a lib/libgtest_main.a lib/libgtest.a 
